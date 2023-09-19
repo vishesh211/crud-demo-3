@@ -1,4 +1,4 @@
-package com.example.cruddemo;
+package com.example.cruddemo.repository;
 
 import com.example.cruddemo.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
